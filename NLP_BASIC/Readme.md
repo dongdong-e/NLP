@@ -11,3 +11,9 @@ https://wikidocs.net/book/2155의 내용을 바탕으로 재구성한 실습 내
    * 정제(Cleaning)와 정규화(Normalization)
    * 어간 추출(Stemming)과 표제어 추출(Lemmatization)
    * 불용어(Stopword)
+
+
+
+2. **[NLP_BASIC_1.ipynb]**(https://github.com/dongdong-e/NLP/blob/master/NLP_BASIC/NLP_BASIC_2.ipynb)
+   * 정규 표현식(Regular Expression)
+   * 데이터의 분리(Splitting Data)
