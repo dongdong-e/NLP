@@ -14,6 +14,7 @@ https://wikidocs.net/book/2155의 내용을 바탕으로 재구성한 실습 내
 
 
 
-2. **[NLP_BASIC_1.ipynb]**(https://github.com/dongdong-e/NLP/blob/master/NLP_BASIC/NLP_BASIC_2.ipynb)
+2. **[NLP_BASIC_2.ipynb]**(https://github.com/dongdong-e/NLP/blob/master/NLP_BASIC/NLP_BASIC_2.ipynb)
    * 정규 표현식(Regular Expression)
    * 데이터의 분리(Splitting Data)
+
