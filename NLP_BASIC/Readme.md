@@ -32,5 +32,9 @@ https://wikidocs.net/book/2155의 내용을 바탕으로 재구성한 실습 내
      
 
 4. **[NLP_BASIC_4.ipynb]**(https://github.com/dongdong-e/NLP/blob/master/NLP_BASIC/NLP_BASIC_4.ipynb)
+   
    * 언어 모델(Language Model)이란?
+   * 통계적 언어 모델(Statistical Language Model, SLM)
+   * N-gram Language Model
+   * 한국어에서의 언어 모델(Language Model for Korean Sentences)
 
