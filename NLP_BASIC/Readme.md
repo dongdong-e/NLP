@@ -38,3 +38,7 @@ https://wikidocs.net/book/2155의 내용을 바탕으로 재구성한 실습 내
    * N-gram Language Model
    * 한국어에서의 언어 모델(Language Model for Korean Sentences)
 
+5. **[NLP_BASIC_5.ipynb]**(https://github.com/dongdong-e/NLP/blob/master/NLP_BASIC/NLP_BASIC_5.ipynb)
+   - 펄플렉서티(Perplexity)
+   - 조건부 확률(Conditional Probability)
+
