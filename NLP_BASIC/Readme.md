@@ -48,3 +48,6 @@ https://wikidocs.net/book/2155의 내용을 바탕으로 재구성한 실습 내
    * Bag of Words (BoW)
    * 문서 단어 행렬(Document-Term Matrix, DTM)
    * TF-IDF(Term Frequency-Inverse Document Frequency)
+
+7. **[NLP_BASIC_7.ipynb]**(https://github.com/dongdong-e/NLP/blob/master/NLP_BASIC/NLP_BASIC_7.ipynb)
+   - 코사인 유사도(Cosine Similarity)
