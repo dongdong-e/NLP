@@ -50,4 +50,6 @@ https://wikidocs.net/book/2155의 내용을 바탕으로 재구성한 실습 내
    * TF-IDF(Term Frequency-Inverse Document Frequency)
 
 7. **[NLP_BASIC_7.ipynb]**(https://github.com/dongdong-e/NLP/blob/master/NLP_BASIC/NLP_BASIC_7.ipynb)
+   
    - 코사인 유사도(Cosine Similarity)
+   - 여러가지 유사도 기법
