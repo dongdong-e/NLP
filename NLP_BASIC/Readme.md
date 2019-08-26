@@ -59,3 +59,7 @@ https://wikidocs.net/book/2155의 내용을 바탕으로 재구성한 실습 내
    - 잠재 의미 분석(Latent Segmentic Analysis, LSA)
    - 잠재 디리클레 할당(Latent Dirichlet Allocation, LDA)
    - 잠재 디리클레 할당(Latent Dirichlet Allocation, LDA) 실습
+
+9. **[09_NLP_BASIC.ipynb]**(https://github.com/dongdong-e/NLP/blob/master/NLP_BASIC/09_NLP_BASIC.ipynb)
+   - 머신 러닝이란(What is Machine Learning?)
+   - 머신 러닝 훑어보기
