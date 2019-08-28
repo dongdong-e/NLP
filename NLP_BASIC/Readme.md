@@ -64,3 +64,4 @@ https://wikidocs.net/book/2155의 내용을 바탕으로 재구성한 실습 내
    - 머신 러닝이란(What is Machine Learning?)
    - 머신 러닝 훑어보기
    - 선형 회귀(Linear Regression)
+   - 로지스틱 회귀(Logistic Regression) - 이진 분류
