@@ -77,3 +77,4 @@ https://wikidocs.net/book/2155의 내용을 바탕으로 재구성한 실습 내
    - 로지스틱 회귀(Logistic Regression) - 이진 분류
    - 다중 입력에 대한 실습
    - 벡터와 행렬 연산
+   - 소프트맥스 회귀(Softmax Regression) - 다중 클래스 분류
