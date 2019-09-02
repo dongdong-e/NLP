@@ -77,10 +77,23 @@ https://wikidocs.net/book/2155의 내용을 바탕으로 재구성한 실습 내
    
 
 3. **[09_NLP_BASIC.ipynb]**(https://github.com/dongdong-e/NLP/blob/master/NLP_BASIC/09_NLP_BASIC.ipynb)
+   
    - 머신 러닝이란(What is Machine Learning?)
+   
    - 머신 러닝 훑어보기
+   
    - 선형 회귀(Linear Regression)
+   
    - 로지스틱 회귀(Logistic Regression) - 이진 분류
+   
    - 다중 입력에 대한 실습
+   
    - 벡터와 행렬 연산
+   
    - 소프트맥스 회귀(Softmax Regression) - 다중 클래스 분류
+   
+     
+
+* **[10_NLP_BASIC.ipynb]**(https://github.com/dongdong-e/NLP/blob/master/NLP_BASIC/09_NLP_BASIC.ipynb)
+  * 퍼셉트론(Perceptron)
+  * 인공 신경망(Artificial Neural Network) 훑어보기
