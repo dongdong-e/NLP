@@ -97,3 +97,4 @@ https://wikidocs.net/book/2155의 내용을 바탕으로 재구성한 실습 내
 * **[10_NLP_BASIC.ipynb]**(https://github.com/dongdong-e/NLP/blob/master/NLP_BASIC/09_NLP_BASIC.ipynb)
   * 퍼셉트론(Perceptron)
   * 인공 신경망(Artificial Neural Network) 훑어보기
+  * 역전파(BackPropagation)  이해하기
